@@ -2,6 +2,10 @@
 
 This repository holds RMI's organization-wide GitHub community health defaults. Files here apply to every repository in the org that doesn't provide it's own.
 
+## What Lives Here
+
+- `AGENTS.md`: default instructions for AI coding agents.
+
 ## How This Repo Relates to `practices`
 
 - `practices`[https://github.com/RMI/practices] is the source of truth for guidance: the "why" and "how" behind our engineering standards.
