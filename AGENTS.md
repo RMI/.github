@@ -1,4 +1,4 @@
-# Stitch AI Agent Instructions
+# RMI AI Agent Instructions
 
 ## Operating Principles
 
