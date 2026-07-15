@@ -1,5 +1,5 @@
 ## Summary
-<what changed and why>
+<!-- what changed and why -->
 
 ## Related issues
 Closes: 
