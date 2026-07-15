@@ -58,13 +58,14 @@ For new files or files touched during implementation:
 
 Before adding or upgrading a dependency:
 
-1. Check whether it is actively maintained.
-2. Prefer mature, widely adopted, well-documented libraries.
-3. Use the latest stable version unless compatibility requires otherwise.
-4. Avoid deprecated, abandoned, or niche packages.
-5. Check project runtime, framework, lockfile, and package manager compatibility.
-6. Explain dependency choices briefly.
-7. Do not introduce a dependency when the standard library or an existing dependency is sufficient.
+1. Ask before updating or adding a new dependency.
+2. Check whether it is actively maintained.
+3. Prefer mature, widely adopted, well-documented libraries.
+4. Use the latest stable version unless compatibility requires otherwise.
+5. Avoid deprecated, abandoned, or niche packages.
+6. Check project runtime, framework, lockfile, and package manager compatibility.
+7. Explain dependency choices briefly.
+8.Do not introduce a dependency when the standard library or an existing dependency is sufficient.```
 
 ## Testing
 
