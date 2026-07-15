@@ -53,12 +53,11 @@ When possible, include:
 
 ## Pull Request Expectations
 
-Draft PRs are recommended for early feedback.
-
-Mark a PR ready for review once:
-- required checks are passing,
-- the scope is clear,
-- and the description explains what changed and why.
+- Open a **draft PR** when the work is roughly ready, to trigger CI and work in the open. Do not request review yet.
+- Mark the PR **ready for review** (and only then request reviewers) once:
+  - required checks are passing,
+  - the scope is clear,
+  - and the description explains what changed and why.
 
 PRs are more likely to be accepted when they:
 - stay focused on one concern,
