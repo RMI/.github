@@ -5,7 +5,7 @@
 Closes: 
 
 ## Testing
-<how you validated behavior — automated tests or manual reproduction>
+<!-- how you validated behavior — automated tests or manual reproduction -->
 
 ## Checklist
 - [ ] PR is focused on a single concern
