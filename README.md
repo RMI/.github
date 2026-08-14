@@ -5,6 +5,7 @@ This repository holds RMI's organization-wide GitHub community health defaults. 
 ## What Lives Here
 
 - `CONTRIBUTING.md`: default contributor guide.
+- `PULL_REQUEST_TEMPLATE.md`: a default PR template, aligned with the process guidance in [`practices/process/pull_request.md`](https://github.com/RMI/practices/blob/main/process/pull_request.md).
 
 ## How This Repo Relates to `practices`
 
